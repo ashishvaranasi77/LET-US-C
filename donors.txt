@@ -1,0 +1,6 @@
+Alice GreenStreet 22 2
+Bob MainRoad 30 1
+Clara HillTop 24 2
+David ElmStreet 19 3
+Eva RiverSide 21 2
+Frank OakLane 27 2
